@@ -17,3 +17,5 @@ This is a project that displays images of a given profile, and also allows for u
 This website is deployed to Github Pages
 
 - [Deployment Link:](https://GarlicBread123.github.io/se_project_spots)
+
+- [Project Overview](https://limewire.com/d/sA7np#mnrGWP4sXZ)
